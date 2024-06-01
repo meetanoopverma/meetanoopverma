@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anoop Kumar Verma
 - 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently working on HTML, CSS, JavaScript and Reactjs.
 - 💞️ I’m looking to collaborate on this learning path.
 - 📫 leave a message here.
 
